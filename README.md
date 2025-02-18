@@ -12,6 +12,8 @@ This repository contains the code used for the analysis in "Large-scale analysis
 - `figure_2_tern_plot.Rmd`: Generation of ternary plots showing student membership distributions
 - `figure_2_and_figure_s1_missing_power_comparison_plots`: Comparison between MMSBM achievement and other predictive models
 - `figure_s2_plot_hyperopt_cluster_num.ipynb`: Optimization analysis for number of clusters
+- `cognitive_profiles_per_gender.ipynb`: Analysis of cognitive profiles by gender
+- `students_do_well_and_bad.ipynb`: Analysis of the composition of the cognitive groups
 
 ### Multi-layered Sociogram Analysis 
 - `network_funcs.py`: Core functions for social network analysis
